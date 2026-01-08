@@ -1,5 +1,8 @@
 Triplet Trading Strategy
 
+TO RUN THE CODE IN YOUR BROWSER VISIT 
+https://shorturl.at/WOhSb
+
 A small research project exploring a cointegration-based trading strategy on three assets using classical time-series tools.
 
 The goal here wasn’t to build a production-ready strategy, but to understand how triplet relationships behave, how stable cointegration is over time, and how a VECM can be used to model both short-term dynamics and long-term equilibrium.
